@@ -1,0 +1,25 @@
+.profile {
+  border-radius: 999px;
+  height: 200px;
+  width: 200px;
+  border: 5px solid seagreen; }
+
+p {
+  font-size: 24px; }
+
+nav ul {
+  background: #2c3e58;
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+nav li {
+  display: inline-block; }
+nav a {
+  color: #ffffff;
+  display: inline-block;
+  padding: 10px 16px;
+  text-decoration: none; }
+nav a:hover {
+  background: #16a885; }
+
+/*# sourceMappingURL=main.css.map */
